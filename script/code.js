@@ -16,4 +16,4 @@ function powRecursive(base, exponent) {
 
 console.log(powRecursive(5, 5)); 
 console.log(powRecursive(5, 0)); 
-console.log(powRecursive(3, -2));
+console.log(powRecursive(3, -2).toFixed(2));
